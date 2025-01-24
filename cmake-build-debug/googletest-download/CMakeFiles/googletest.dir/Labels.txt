@@ -1,0 +1,14 @@
+# Target labels
+ googletest
+# Source files and their labels
+/Users/human/Desktop/final-project-team-plz-work/cmake-build-debug/googletest-download/CMakeFiles/googletest
+/Users/human/Desktop/final-project-team-plz-work/cmake-build-debug/googletest-download/CMakeFiles/googletest.rule
+/Users/human/Desktop/final-project-team-plz-work/cmake-build-debug/googletest-download/CMakeFiles/googletest-complete.rule
+/Users/human/Desktop/final-project-team-plz-work/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-build.rule
+/Users/human/Desktop/final-project-team-plz-work/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-configure.rule
+/Users/human/Desktop/final-project-team-plz-work/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-download.rule
+/Users/human/Desktop/final-project-team-plz-work/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-install.rule
+/Users/human/Desktop/final-project-team-plz-work/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule
+/Users/human/Desktop/final-project-team-plz-work/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-patch.rule
+/Users/human/Desktop/final-project-team-plz-work/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-test.rule
+/Users/human/Desktop/final-project-team-plz-work/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-update.rule

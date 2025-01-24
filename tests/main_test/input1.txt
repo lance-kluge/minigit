@@ -1,0 +1,170 @@
+//remove old files from previous runs
+-99
+2
+f.txt
+-99
+2
+b.txt
+-99
+2
+c file.txt
+//create f.txt
+-99
+0
+f.txt
+new file
+//add f.txt -> error
+2
+//init
+1
+//add f.txt
+2
+f.txt
+//commit commit zero
+4
+commit zero
+//add b.txt ->error
+2
+b.txt
+f.txt
+//create b
+-99
+0
+b.txt
+i am a second file
+//edit f
+-99
+0
+f.txt
+i am f.txt but modified
+// add b.txt
+2
+b.txt
+//commit zero ->error, commit blank
+4
+commit zero
+
+commit one
+//searches
+6
+commit
+6
+hippo
+6
+one
+//edit f
+-99
+0
+f.txt
+i am edited again
+//out of bounds -> error, then commit 2
+-3
+4
+commit two
+//verify files
+-99
+3
+.minigit/f.txt_0
+-99
+3
+.minigit/f.txt_1
+-99
+3
+.minigit/f.txt_2
+-99
+3
+.minigit/b.txt_0
+//checkout 0
+5
+0
+Yes
+//add -> error
+2
+//commit -> error
+4
+//verify f
+-99
+3
+f.txt
+//checkout 1
+5
+1
+Yes
+//verify f,b
+-99
+3
+f.txt
+-99
+3
+b.txt
+//checkout 2
+5
+2
+Yes
+//create c file.txt
+-99
+0
+c file.txt
+i have a space in my name
+//rm f.txt
+3
+f.txt
+//add c file
+2
+c file.txt
+//edit f.txt
+-99
+0
+f.txt
+final modification
+//commit 3
+4
+commit three
+//Verify all
+-99
+3
+f.txt
+-99
+3
+b.txt
+-99
+3
+c file.txt
+-99
+3
+.minigit/f.txt_0
+-99
+3
+.minigit/f.txt_1
+-99
+3
+.minigit/f.txt_2
+-99
+3
+.minigit/f.txt_3
+-99
+3
+.minigit/b.txt_0
+-99
+3
+.minigit/b.txt_1
+-99
+3
+.minigit/c file.txt_0
+-99
+3
+.minigit/c file.txt_1
+//commit ->error
+4
+//remove old files
+-99
+2
+f.txt
+-99
+2
+b.txt
+-99
+2
+c file.txt
+//quit
+7

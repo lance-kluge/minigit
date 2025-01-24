@@ -1,0 +1,885 @@
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> This menu is for debugging only
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> This menu is for debugging only
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> This menu is for debugging only
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> This menu is for debugging only
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> You must init before you can do that.
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> File to add: Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Enter a commit message: Your message is: commit zero
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> File to add: Enter a valid path: Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> This menu is for debugging only
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> This menu is for debugging only
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> File to add: Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Enter a commit message: Please enter valid commit message: Your message is: commit one
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Word to search: All commit numbers that contain "commit":
+0, 1
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Word to search: No commits contain "hippo"
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Word to search: All commit numbers that contain "one":
+1
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> This menu is for debugging only
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Please enter a valid option: Enter a commit message: Your message is: commit two
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> This menu is for debugging only
+new file
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> This menu is for debugging only
+i am f.txt but modified
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> This menu is for debugging only
+i am edited again
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> This menu is for debugging only
+i am a second file
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Enter a commit number: This will overwrite existing files. Enter "Yes" if you want to continue.
+#> Checking Out: 0
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Cannot perform this action while on an old commit
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Cannot perform this action while on an old commit
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> This menu is for debugging only
+new file
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Enter a commit number: This will overwrite existing files. Enter "Yes" if you want to continue.
+#> Checking Out: 1
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> This menu is for debugging only
+i am f.txt but modified
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> This menu is for debugging only
+i am a second file
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Enter a commit number: This will overwrite existing files. Enter "Yes" if you want to continue.
+#> Checking Out: 2
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> This menu is for debugging only
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> File to remove: Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> File to add: Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> This menu is for debugging only
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Enter a commit message: Your message is: commit three
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> This menu is for debugging only
+final modification
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> This menu is for debugging only
+i am a second file
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> This menu is for debugging only
+i have a space in my name
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> This menu is for debugging only
+new file
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> This menu is for debugging only
+i am f.txt but modified
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> This menu is for debugging only
+i am edited again
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> This menu is for debugging only
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> This menu is for debugging only
+i am a second file
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> This menu is for debugging only
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> This menu is for debugging only
+i have a space in my name
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> This menu is for debugging only
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> No added files have been modified.
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> This menu is for debugging only
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> This menu is for debugging only
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> This menu is for debugging only
+Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Select a numerical option:
++=====Main Menu=========+
+ 1. init
+ 2. add
+ 3. rm
+ 4. commit
+ 5. checkout
+ 6. search
+ 7. quit
++-----------------------+
+#> Quitting

@@ -1,0 +1,21 @@
+# ninja log v5
+0	17	1701146419169616084	googletest-prefix/src/googletest-stamp/googletest-mkdir	d7d293774dedb7dc
+0	17	1701146419169616084	/Users/human/Desktop/final-project-team-plz-work/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-mkdir	d7d293774dedb7dc
+17	4455	1701146423608058336	googletest-prefix/src/googletest-stamp/googletest-download	ad4cdd4ab73cf5a9
+17	4455	1701146423608058336	/Users/human/Desktop/final-project-team-plz-work/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-download	ad4cdd4ab73cf5a9
+4455	4504	0	googletest-prefix/src/googletest-stamp/googletest-update	e074bd56e24af6a6
+4455	4504	0	/Users/human/Desktop/final-project-team-plz-work/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-update	e074bd56e24af6a6
+4504	4519	1701146423671968322	googletest-prefix/src/googletest-stamp/googletest-patch	5299252767df50fb
+4504	4519	1701146423671968322	/Users/human/Desktop/final-project-team-plz-work/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-patch	5299252767df50fb
+4519	4534	1701146423686725299	googletest-prefix/src/googletest-stamp/googletest-configure	57f425a956ccd40d
+4519	4534	1701146423686725299	/Users/human/Desktop/final-project-team-plz-work/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-configure	57f425a956ccd40d
+4534	4548	1701146423700707192	googletest-prefix/src/googletest-stamp/googletest-build	d40edc74563080dd
+4534	4548	1701146423700707192	/Users/human/Desktop/final-project-team-plz-work/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-build	d40edc74563080dd
+4548	4563	1701146423715776861	googletest-prefix/src/googletest-stamp/googletest-install	def728f5eb09cac1
+4548	4563	1701146423715776861	/Users/human/Desktop/final-project-team-plz-work/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-install	def728f5eb09cac1
+4563	4578	1701146423730996522	googletest-prefix/src/googletest-stamp/googletest-test	b7653c3601537b59
+4563	4578	1701146423730996522	/Users/human/Desktop/final-project-team-plz-work/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-test	b7653c3601537b59
+4578	4600	1701146423752404776	CMakeFiles/googletest-complete	359a27868ebfbe9e
+4578	4600	1701146423752404776	googletest-prefix/src/googletest-stamp/googletest-done	359a27868ebfbe9e
+4578	4600	1701146423752404776	/Users/human/Desktop/final-project-team-plz-work/cmake-build-debug/googletest-download/CMakeFiles/googletest-complete	359a27868ebfbe9e
+4578	4600	1701146423752404776	/Users/human/Desktop/final-project-team-plz-work/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-done	359a27868ebfbe9e
